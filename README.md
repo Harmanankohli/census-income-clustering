@@ -71,7 +71,7 @@ Census_Clustering/
 ├── Analysis_report.pdf               # Detailed project report
 ├── README.md                         # Project documentation
 ├── data/                            # Dataset files (if included)
-└── outputs/                         # Generated visualizations and results
+
 ```
 
 ## Getting Started
