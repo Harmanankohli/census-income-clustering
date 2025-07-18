@@ -83,22 +83,24 @@ This project applies unsupervised machine learning to the **UCI Census Income da
 ```bash
 git clone https://github.com/your-username/customer-segmentation-census-data.git
 cd customer-segmentation-census-data
-
+```
 
 2️⃣ Install dependencies:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 3️⃣ Run the notebook:
 
 ```bash
 jupyter notebook Census_Solution.ipynb
+```
 
-**## 📖 References**
+## 📖 References
 Census Income Dataset - UCI ML Repository
 
-** ## 👨‍💻 Author**
+## 👨‍💻 Author
 Harmanan Kohli
 Data Scientist & Machine Learning Enthusiast
 
