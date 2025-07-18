@@ -103,31 +103,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
    - Download `adult.data` and `adult.test` files
    - Place them in the `data/` directory
 
-## Usage Examples
-
-```python
-# Load and preprocess data
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-
-# Fit clustering model
-kmeans = KMeans(n_clusters=3, random_state=42)
-clusters = kmeans.fit_predict(scaled_features)
-
-# Visualize results
-pca = PCA(n_components=2)
-pca_features = pca.fit_transform(scaled_features)
-plt.scatter(pca_features[:, 0], pca_features[:, 1], c=clusters, cmap='viridis')
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/enhancement`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/enhancement`)
-5. Create a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
