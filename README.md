@@ -70,7 +70,6 @@ Census_Clustering/
 ├── census-income-clustering.ipynb    # Main analysis notebook
 ├── Analysis_report.pdf               # Detailed project report
 ├── README.md                         # Project documentation
-├── data/                            # Dataset files (if included)
 
 ```
 
