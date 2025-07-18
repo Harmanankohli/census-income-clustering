@@ -103,10 +103,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
    - Download `adult.data` and `adult.test` files
    - Place them in the `data/` directory
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## References
 
 - Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
